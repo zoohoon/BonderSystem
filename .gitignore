@@ -264,3 +264,6 @@ __pycache__/
 /hortlog -se  
 
 !ProberInterfaces/Log/*.cs
+!TestResultDialogMainProject/
+!TestResultDialogViewProject/
+!TestResultDialogVMProject/
