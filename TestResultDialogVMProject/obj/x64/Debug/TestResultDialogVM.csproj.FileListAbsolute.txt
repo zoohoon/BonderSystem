@@ -1,0 +1,16 @@
+C:\Repos\NPOS\bin\x64\Debug\TestResultDialogVM.dll.config
+C:\Repos\NPOS\bin\x64\Debug\TestResultDialogVM.dll
+C:\Repos\NPOS\bin\x64\Debug\TestResultDialogVM.pdb
+C:\Repos\NPOS\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.csproj.AssemblyReference.cache
+C:\Repos\NPOS\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.csproj.CoreCompileInputs.cache
+C:\Repos\NPOS\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.csproj.CopyComplete
+C:\Repos\NPOS\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.dll
+C:\Repos\NPOS\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.pdb
+D:\NPos\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.csproj.AssemblyReference.cache
+D:\NPos\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.csproj.CoreCompileInputs.cache
+D:\NPos\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.dll
+D:\NPos\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.pdb
+D:\NPos\bin\x64\Debug\TestResultDialogVM.dll.config
+D:\NPos\bin\x64\Debug\TestResultDialogVM.dll
+D:\NPos\bin\x64\Debug\TestResultDialogVM.pdb
+D:\NPos\TestResultDialogVMProject\obj\x64\Debug\TestResultDialogVM.csproj.CopyComplete
