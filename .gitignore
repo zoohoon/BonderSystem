@@ -262,3 +262,5 @@ __pycache__/
 /MultiDevAlignModule/PNPSetupBase.vb
 /MultiDevAlignModule
 /hortlog -se  
+
+!ProberInterfaces/Log/*.cs
